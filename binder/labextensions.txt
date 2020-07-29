@@ -1,0 +1,6 @@
+# development install of hummingbird-jupyter-pane
+.
+
+# some additional recommended labextensions, uncomment to enable
+# @jupyter-widgets/jupyterlab-manager
+# @jupyterlab/toc

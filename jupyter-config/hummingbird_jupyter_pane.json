@@ -1,0 +1,7 @@
+{
+  "NotebookApp": {
+    "nbserver_extensions": {
+      "hummingbird_jupyter_pane": true
+    }
+  }
+}
